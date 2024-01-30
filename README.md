@@ -7,3 +7,5 @@ This repository contains two (2) files:
 * Jupyter notebook is a skeleton for your implementation.
 
 Find assignment details on Canvas.
+
+* For viewing the detail of assignment, either can clone to local jupyter notebook and view this assignment or can be viewed through github, go to github repo, go to file by clicking "Happiness - Assignment 1 - CS 663 (Machine Learning).ipynb", then in the "Preview" should be able to see assignment detail.
